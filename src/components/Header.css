@@ -1,0 +1,24 @@
+.main-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #b6244f;
+}
+
+.main-header a,
+input {
+  color: #f8f1ff;
+  margin: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.main-header input {
+  background-color: #e76d83;
+}

@@ -1,0 +1,47 @@
+.bunny-table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  max-width: 75%;
+  border-spacing: 0;
+  border-collapse: collapse;
+  border: 2px;
+  border-style: solid;
+  border-color: #1e1e24;
+  text-align: left;
+}
+
+.bunny-table th {
+  border: 2px;
+  border-style: solid;
+  border-color: #1e1e24;
+  padding: 10px;
+  background-color: #f8f1ff;
+  color: #1e1e24;
+  text-align: center;
+  min-width: 100px;
+}
+
+.bunny-table tbody {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+}
+
+.bunny-table tr {
+  border: 1px;
+  border-style: dashed;
+  border-color: #1e1e24;
+  background-color: #f8f1ff;
+}
+
+.bunny-table td {
+  padding: 4px;
+}
+
+.bunny-table tr td:first-child {
+  padding-left: 20px;
+}
+.bunny-table tr td:last-child {
+  padding-right: 20px;
+}

@@ -1,0 +1,2062 @@
+[
+  {
+    "breed_name": "Alaska",
+    "size": "3.2–4.1",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Altex",
+    "size": "5.9",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Pointed White",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "United States Alabama Texas"
+  },
+  {
+    "breed_name": "American",
+    "size": "4.1–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Blue, White",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States California"
+  },
+  {
+    "breed_name": "American Chinchilla [US]  ",
+    "size": "4.1–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Chinchilla",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States"
+  },
+  {
+    "breed_name": "American Fuzzy Lop",
+    "size": "1.6–1.8",
+    "fur_type": "Long",
+    "ear_type": "Lop",
+    "colors_markings": "[All solid or broken colors/patterns]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States"
+  },
+  {
+    "breed_name": "American Sable",
+    "size": "3.2–4.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Sable",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States California"
+  },
+  {
+    "breed_name": "Angora",
+    "size": "2.0–5.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Albino or Colored",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "Turkey"
+  },
+  {
+    "breed_name": "Argente Bleu",
+    "size": "2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Argente Bleu markings][a]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Argente Brun [UK]",
+    "size": "2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Argente Brun [UK] markings][b]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Argente Brun [US]",
+    "size": "3.6–4.8",
+    "fur_type": "Medium",
+    "ear_type": "Erect",
+    "colors_markings": "[Argente Brun [US] markings][c]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "Canada"
+  },
+  {
+    "breed_name": "Argente Clair",
+    "size": "2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Blue base heavily silvered]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Argente Crème [UK]  ",
+    "size": "2.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Argente Crème markings][d]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Argente de Champagne [UK]  ",
+    "size": "4.1–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Argente de Champagne markings][e]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Argente Noir",
+    "size": "2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Argente Noir markings][f]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Argente St Hubert",
+    "size": "2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Argente St Hubert markings][g]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Armenian Marder",
+    "size": "4.0–4.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Dark Brown or Light Brown (either having light to heavy chinchillation)]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Armenia"
+  },
+  {
+    "breed_name": "Astrex  ",
+    "size": "2.7–3.6",
+    "fur_type": "Rex Curly  Short",
+    "ear_type": "Erect",
+    "colors_markings": "Any [BRC-]recognised Rex Colour.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Aurora Negro",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Guatemala"
+  },
+  {
+    "breed_name": "Baladi Black",
+    "size": "2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "Baladi Red",
+    "size": "2.8",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Red",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "Baladi White",
+    "size": "1.95",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "Bauscat",
+    "size": "3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Albino",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "Beige [UK]  ",
+    "size": "2.3–2.9",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Dark Chamois or light sandy colour, down to the skin, faintly ticked with blue.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom"
+  },
+  {
+    "breed_name": "Belgian Hare [UK]",
+    "size": "3.6–4.1",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Rich, deep chestnut red, well extended down the sides. Black ticking of a wavy or blotchy appearance, plentiful on body; chest and face free.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Belgian Hare [US]",
+    "size": "3.6–4.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Deep red 'rufous' coat with black, wavy ticking.",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Beveren [UK]  ",
+    "size": "3.6",
+    "fur_type": "Medium",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Brown, Lilac, White [with blue eyes]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Beveren [US]",
+    "size": "3.6–5.4",
+    "fur_type": "Medium",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, White [with blue eyes]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Big Silver Marten  Also called:    Große Weißgrannen [de]    Veliki Bijeloopaljeni Kunić [hr]  ",
+    "size": "3.6–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Black, Blue, or Havana with white and/or tan markings, plus white ticking on the lower body]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Croatia"
+  },
+  {
+    "breed_name": "Blanc de Bouscat",
+    "size": "5.0–7.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Completely snow white [...]. Guard hairs sprinkled regularly all over the coat give it a brilliant frosty look.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Blanc de Hotot",
+    "size": "3.6–5.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White with dark rings around the eyes",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Blanc de Popielno  Also called:    Popielański Biały [pl]    Popielno White",
+    "size": "4–5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Albino",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Poland"
+  },
+  {
+    "breed_name": "Blanc de Termonde",
+    "size": "4.1–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Immaculately white. Eyes are ruby red",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Blue of Ham",
+    "size": "4.5–6",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "Slate blue with a blue sub-color but not as dark as the blue Vienna",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Blue of Sint-Niklaas",
+    "size": "2.3–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Blue",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Bourbonnais Grey  Also called:    Gris du Bourbonnais [fr]",
+    "size": "3.2–5.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Overall color is slate blue with longer gray guard hairs tipped black.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Brazilian",
+    "size": "3.2–5.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Brazil"
+  },
+  {
+    "breed_name": "Britannia Petite [US]  ",
+    "size": "0.68–1.13",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Black Otter, Blue-Eyed White, Chestnut, Red-Eyed White, Sable Marten",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": ""
+  },
+  {
+    "breed_name": "British Giant",
+    "size": "5.7–11.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Brown Grey, Dark Steel Grey, Opal, White",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Brown Chestnut of Lorraine  Also called:    Brun Marron de Lorraine [fr]",
+    "size": "2.0–2.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Chestnut brown uniform color with a well-defined orange-brown outer-color. Under-color bluish including the belly. Ears bluish on their inner side and edged with a black border.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Caldes",
+    "size": "4.3–4.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Red-Eyed White",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Spain"
+  },
+  {
+    "breed_name": "Californian [UK]",
+    "size": "3.4–4.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Four varieties, all being white (with red eyes) with dark points:Normal (dark sepia points), Chocolate (milk chocolate points),Blue (slate blue points), or Lilac (pink shade of dove points)",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United States California"
+  },
+  {
+    "breed_name": "Californian [US]",
+    "size": "4.1–4.8",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "One variety, being white (with red eyes) with dark points:Standard (black points)",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States California"
+  },
+  {
+    "breed_name": "Canadian Plush Lop  ",
+    "size": "1.6–2.9",
+    "fur_type": "Rex Curly  Medium",
+    "ear_type": "Lop",
+    "colors_markings": "[Includes at least 19 stated colors/patterns]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Canada"
+  },
+  {
+    "breed_name": "Carmagnola Grey",
+    "size": "3.5–4.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Chinchilla]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Italy"
+  },
+  {
+    "breed_name": "Cashmere Lop  ",
+    "size": "1.93–2.38",
+    "fur_type": "Long",
+    "ear_type": "Lop",
+    "colors_markings": "[Includes >35 different colors/patterns][h]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Champagne d'Argent [US]  ",
+    "size": "4.1–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Champagne d'Argent markings][i]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Chaudry",
+    "size": "3.6–4.1",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Red-Eyed White",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Checkered Giant [US]  ",
+    "size": "5.0–11.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black (i.e, white with black markings), Blue (i.e., white with gray markings)",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Chinchilla  See main entries:    American Chinchilla [US]    Chinchilla [UK]    Chinchilla Giganta [UK]    Giant Chinchilla [US]    Standard Chinchilla [US]",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Chinchilla [UK]",
+    "size": "3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "To resemble real Chinchilla.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Chinchilla Giganta [UK]",
+    "size": "3.9–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Chinchilla, but with] Desired top colour considerably darker grey than the Chinchilla [i.e., Chinchilla [UK]] rabbit.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Cinnamon",
+    "size": "4.5–5.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Cinnamon",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States Montana"
+  },
+  {
+    "breed_name": "Continental Giant Coloured",
+    "size": "5.6–11.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Agouti, Black, Chinchilla, Dark Steel, Light Steel, Opal, Red Agouti, Yellow",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union"
+  },
+  {
+    "breed_name": "Continental Giant White",
+    "size": "5.0–11.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Immaculate white, eyes pink or blue.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union"
+  },
+  {
+    "breed_name": "Creme d'Argent [US]  ",
+    "size": "3.6–5.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Creamy white with an orange cast",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Criollo",
+    "size": "1.4–1.8",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Many colors and patterns.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Mexico"
+  },
+  {
+    "breed_name": "Cuban Brown",
+    "size": "4.5–5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Glossy brown",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Cuba"
+  },
+  {
+    "breed_name": "Czech Red",
+    "size": "1.8–2.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Chestnut",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": ""
+  },
+  {
+    "breed_name": "Czech Solver [CZ]  Also called:    Český Luštič  ",
+    "size": "3.6–3.9",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[sandy colored]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Czech Republic"
+  },
+  {
+    "breed_name": "Czech Spot",
+    "size": "2.7–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Agouti, Black, Blue, Isabella (Beige), Tortoise, Tri-color",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Czech Republic"
+  },
+  {
+    "breed_name": "Czech White  Also called:    Český Albín",
+    "size": "4.0–5.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Czech Republic"
+  },
+  {
+    "breed_name": "Dalmatian",
+    "size": "2.7–3.6",
+    "fur_type": "Rex Straight  Short",
+    "ear_type": "Erect",
+    "colors_markings": "White with numerous little coloured patches of black, blue, brown, orange, or fawn.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Deilenaar",
+    "size": "2.3–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Red Agouti",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Dutch [UK]",
+    "size": "2.0–2.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Dutch markings on] Black, Blue, Brown Grey, Chocolate, Pale Grey, Steel Grey, Tortoiseshell, Yellow",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Dutch [US]",
+    "size": "1.6–2.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black Dutch, Blue Dutch, Chinchilla Dutch, Chocolate Dutch, Gray Dutch, Steel Dutch, Tortoise Dutch",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Dutch (Tri-Colour)  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Dwarf Hotot",
+    "size": "0.91–1.36",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White with black around the eyes",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Dwarf Lop [UK]  ",
+    "size": "1.93–2.38",
+    "fur_type": "Short",
+    "ear_type": "Lop",
+    "colors_markings": "[Many]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Elfin  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Enderby Island",
+    "size": "1.4–1.8",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Silver-grey (with chinchillation) or Cream or beige",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Australia *"
+  },
+  {
+    "breed_name": "English Angora",
+    "size": "2.3–3.6",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "[Many]",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "English Lop",
+    "size": "4.5–5.0",
+    "fur_type": "Short",
+    "ear_type": "Lop",
+    "colors_markings": "[Many]",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "English Spot",
+    "size": "2.3–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White with colored butterfly pattern",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Fauve de Bourgogne",
+    "size": "3.2–5.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Orange/Red",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Fee de Marbourg  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Feh de Marbourg [FR]  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Feu Noir [FR]  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Flemish Giant [UK]",
+    "size": "5.0–11.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Dark steel grey, with even or wavy ticking [...] except belly & under tail which shall be white [...].",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Flemish Giant [US]",
+    "size": "6.4–11.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Fawn, Light Grey, Sandy, Steel, White",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Florida White",
+    "size": "1.8–2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States Florida"
+  },
+  {
+    "breed_name": "Fox [de]",
+    "size": "3–5",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "It is most common in the color white.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Switzerland"
+  },
+  {
+    "breed_name": "Fox–Silver [UK]  ",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Chocolate, Lilac",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "French Angora",
+    "size": "3.4–4.8",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "[Many]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "French Lop",
+    "size": "4.5",
+    "fur_type": "Short",
+    "ear_type": "Lop",
+    "colors_markings": "[Many]",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Gabali",
+    "size": "2.7–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Agouti",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "German Angora",
+    "size": "2.5–5.5",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "[Albino or colored (but not bi-colored)]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "German Lop",
+    "size": "2.7–3.6",
+    "fur_type": "Short",
+    "ear_type": "Lop",
+    "colors_markings": "[Many]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Giant Angora",
+    "size": "4.5",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "—",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States Massachusetts"
+  },
+  {
+    "breed_name": "Giant Chinchilla [US]  ",
+    "size": "4.5–7.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Chinchilla",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States Missouri"
+  },
+  {
+    "breed_name": "Giant Havana  Also called:    Stor Havana [da]    Stora Havana [se]  ",
+    "size": "4.6–5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Dark brown and glossy color. The eyes are brown, but from certain points of view they are ruby red.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Sweden"
+  },
+  {
+    "breed_name": "Giant Marburger  Also called:    Stor Marburger Egern [da]  ",
+    "size": "4.6–5",
+    "fur_type": "Medium",
+    "ear_type": "Erect",
+    "colors_markings": "A grey-blue outer color with a brownish undertone.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Denmark"
+  },
+  {
+    "breed_name": "Giant Papillon [UK]  ",
+    "size": "5.0–11.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Colored butterfly, eye circles, cheek spots, ear base, saddle, and rump spots; all on a base of white.] All [BRC] recognised colours are admissible.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Giant Silver  Also called:    Stor Sølv [da]    Stora Sølv [se]  ",
+    "size": "4.6–5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "The entire body has a black base color mixed with hair with white tips that gives the rabbit a silver sheen.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Giant Smoke Pearl  Also called:    Stor Zobel [da]    Stora Zobel [se]  ",
+    "size": "4–5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "A mixture of brown, so-called sepia-colored and beige tones [with darker points].",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Giza White",
+    "size": "2.53–3.45",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Albino",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "Golden Glavcot",
+    "size": "2.3–2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Gotland",
+    "size": "3.0–4.1",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Sweden"
+  },
+  {
+    "breed_name": "Gouwenaar",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "The body color has a light grey-blue tone throughout the body.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Grey Pearl of Halle  Also called:    Gris Perle de Hal    Lille Egern    Parelgrijze van Halle",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "The body color is a light grey-blue tone throughout the body.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Güzelçamlı",
+    "size": "2.3–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White with chocolate markings",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Turkey"
+  },
+  {
+    "breed_name": "Harlequin [UK]",
+    "size": "2.7–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Harlequin  (includes: Black, Blue, Brown, Lilac)Magpie  (includes: Black, Blue, Brown, Lilac)",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Harlequin [US]",
+    "size": "2.7–4.1",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Japanese  (includes: Black, Blue, Chocolate, Lilac)Magpie  (includes: Black, Blue, Chocolate, Lilac)",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Harlequin Dutch  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Harlequin Rex  Also called:    Magpie Rex    Japanese Rex",
+    "size": "2.7–3.6",
+    "fur_type": "Rex Straight  Short",
+    "ear_type": "Erect",
+    "colors_markings": "[ Same as for Harlequin [UK] ]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Havana [UK]  ",
+    "size": "2.5–2.9",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "A rich, dark chocolate with a purplish sheen, [...] pearl-grey undercolour.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Havana [US]  ",
+    "size": "2.0–2.9",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Broken, Chocolate, Lilac",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Himalayan  Also called:    Russian",
+    "size": "2.7–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White with points of either black, blue, chocolate, or lilac",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "China"
+  },
+  {
+    "breed_name": "Holland Lop [US]  ",
+    "size": "1.8–2.9",
+    "fur_type": "Short",
+    "ear_type": "Lop",
+    "colors_markings": "Agouti, Broken, Pointed White, Self Colors, Shaded Colors, Tan Pattern, Ticked, Wide Band",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Hulstlander",
+    "size": "1.8–2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White with blue eyes",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Hungarian Giant",
+    "size": "5–7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Many]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Hungary"
+  },
+  {
+    "breed_name": "Isabella",
+    "size": "3–4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "The yellowish brown color is 'coated' with a blue veil, caused by blue hair tips. In front of the head there is the 'mask', which when seen from the front, is oval.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Sweden"
+  },
+  {
+    "breed_name": "Jamora [de]",
+    "size": "1.9–2.4",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "[L]ike [Harlequin or] Japanese. The most common color is black / yellow, but black and white may occur.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Japanese Dutch  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Japanese White  Also called:    日本白色種 [ja]  Includes:    ジャンボうさぎ [ja]    Jumbo Usagi",
+    "size": "3–10",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Albino",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Japan"
+  },
+  {
+    "breed_name": "Jersey Wooly",
+    "size": "1.1–1.6",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "[Many]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States New Jersey"
+  },
+  {
+    "breed_name": "Kabyle",
+    "size": "2.0–3.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Many]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Algeria"
+  },
+  {
+    "breed_name": "Lilac [UK]",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "An even pink shade of dove colour",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Lilac [US]",
+    "size": "2.3–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Pinkish dove-gray",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Lionhead [UK]",
+    "size": "1.36–1.7",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "All [BRC] recognised colour[s] and pattern[s]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union\n France\n Belgium"
+  },
+  {
+    "breed_name": "Lionhead [US]",
+    "size": "1.47–1.70",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "Chocolate, Ruby-Eyed White, Seal, Siamese Sable, Tortoise (includes Black, Blue, Chocolate, Lilac)",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union\n France\n Belgium"
+  },
+  {
+    "breed_name": "Liptov Baldspotted Rabbit  Also called:    Liptovský lysko",
+    "size": "4–4.25",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Agouti, Blue-Agouti, or Black",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Slovakia"
+  },
+  {
+    "breed_name": "Lynx  Also called:    Luchskaninchen    Lux",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Lux has a wild factor and the outermost part of the hair is light grey. Under this color, the middle color is reddish-brown. The middle color is so high that it shines through the entire color. The entire color therefore appears as a reddish-brown tone 'coated' with a light grey-blue cut.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Marburger Feh [UK]  Originally named:    Fee de Marbourg  Renamed:    Feh de Marbourg [FR]  ",
+    "size": "1.88–3.27",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Lilac:] The top colour is a delicately toned light blue which appears to be covered with a brownish veil.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Mecklenburger Piebald  Also called:    Mecklenburger Schecke",
+    "size": "4.5–5.5",
+    "fur_type": "Medium",
+    "ear_type": "Erect",
+    "colors_markings": "[Broken pattern: mostly solid color with neck, chest, belly, legs. Includes Agouti, Black, Blue, Red, Steel]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Meissner Lop",
+    "size": "4.5–5.4",
+    "fur_type": "Short",
+    "ear_type": "Lop",
+    "colors_markings": "[Many]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Mellerud rabbit",
+    "size": "3.0–3.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Albino, Black with inexact Dutch markings",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Sweden"
+  },
+  {
+    "breed_name": "Mini Cashmere Lop  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Mini Lion Lop  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Mini Lop [US]  ",
+    "size": "2.3–2.7",
+    "fur_type": "Short",
+    "ear_type": "Lop",
+    "colors_markings": "[To be supplied]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Mini Rex  ",
+    "size": "1.4–2.0",
+    "fur_type": "Rex Straight  Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Castor, Chinchilla, Chocolate, Himalayan, Lilac, Lynx, Marten, Opal, Otter, Red, Sable, Sable Point, Seal, Tortoise, Red-Eyed White, Blue-Eyed White, Broken (white with any accepted color), Tri-Color (white with one of the following four pairs: Black & Orange, Lilac & Fawn, Chocolate & Orange, Blue & Fawn), Pattern",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "United States Texas"
+  },
+  {
+    "breed_name": "Mini Satin [US]  ",
+    "size": "1.8",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Broken, Chinchilla, Chocolate, Chocolate Agouti, Copper, Himalayan (includes Black, Blue, Chocolate, Lilac), Opal, Red, Siamese (includes Blue, Chocolate, Lilac), Silver Marten (includes Black, Blue, Chocolate, Lilac), Squirrel, Tortoise, White",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States Michigan"
+  },
+  {
+    "breed_name": "Miniature Cashmere Lop  ",
+    "size": "1.6",
+    "fur_type": "Long",
+    "ear_type": "Lop",
+    "colors_markings": "[same as Cashmere Lop]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Miniature Lion Lop",
+    "size": "1.5–1.6",
+    "fur_type": "Long",
+    "ear_type": "Lop",
+    "colors_markings": "Chocolate PointAlso: Any [BRC] colour or pattern [...] apart from the broken pattern.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Miniature Lop [UK/NL]  ",
+    "size": "1.5–1.7",
+    "fur_type": "Short",
+    "ear_type": "Lop",
+    "colors_markings": "Any [BRC] colour or pattern [...] apart from the broken pattern.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Miniature Papillon  Also called:    Dværgschecke [da]  ",
+    "size": "1.2–1.9",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black/White, Blue/White, Tri-colour (Black & Gold) [Colored butterfly, eye circles, cheek spots, ear base, saddle, side-body patches, and top of tail; all on a base of white]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Miniature Satin [UK]  ",
+    "size": "1.8–2.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Ivory",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United States Michigan"
+  },
+  {
+    "breed_name": "Moshtohor  Also called:    Line M",
+    "size": "2.40–3.91",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Yellowish-Brown, White, or Grey",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "Netherland Dwarf",
+    "size": "0.50–1.13",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Many]",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "New Zealand [US]",
+    "size": "4.1–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Broken, Red, White",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States California"
+  },
+  {
+    "breed_name": "New Zealand red [UK]",
+    "size": "3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Bright golden red or reddish gold with sheen",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United States California"
+  },
+  {
+    "breed_name": "New Zealand white [UK]",
+    "size": "4.1–5.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, White",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United States California"
+  },
+  {
+    "breed_name": "Nitransky",
+    "size": "3.5–5.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[White with diluted Californian markings]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Slovenia"
+  },
+  {
+    "breed_name": "Opossum  ",
+    "size": "2.7–3.6",
+    "fur_type": "Rex Curly  Long",
+    "ear_type": "Erect",
+    "colors_markings": "Any [BRC-]recognised colour.",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "Switzerland"
+  },
+  {
+    "breed_name": "Orange",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": " A strong and warm yellow-red outer color.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Sweden"
+  },
+  {
+    "breed_name": "Orylag [fr]  Also called:    Rex du Poitou",
+    "size": "2.5",
+    "fur_type": "Rex Straight  Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Many]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Ørestad",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Ruby-Eyed White",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Sweden"
+  },
+  {
+    "breed_name": "Palomino",
+    "size": "4.5–5.0",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Golden, Lynx",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States Washington"
+  },
+  {
+    "breed_name": "Pannon White",
+    "size": "2.3–4.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Hungary"
+  },
+  {
+    "breed_name": "Perlfee",
+    "size": "2.3–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Blue Agouti",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Plush Lop (Miniature)  ",
+    "size": "1.7–1.8",
+    "fur_type": "Rex Straight  Short",
+    "ear_type": "Lop",
+    "colors_markings": "Any colour and pattern accepted by the [BRC] apart from the broken pattern.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Australia *"
+  },
+  {
+    "breed_name": "Plush Lop (Standard)  ",
+    "size": "2.3–2.6",
+    "fur_type": "Rex Straight  Short",
+    "ear_type": "Lop",
+    "colors_markings": "Any colour and pattern accepted by the [BRC] apart from the broken pattern.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Australia *"
+  },
+  {
+    "breed_name": "Pointed Beveren  ",
+    "size": "3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Brown, Lilac",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Polish [UK]  ",
+    "size": "1.1",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Includes >25 different colors/patterns][j]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Polish [US]",
+    "size": "1.1–1.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Blue-Eyed White, Broken, Chocolate, Red-Eyed White",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Rex [US]  Originally called:    Castorrex  Sometimes called:    Standard Rex  ",
+    "size": "2.7–4.8",
+    "fur_type": "Rex Straight  Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Over 19 stated colors/patterns][k]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Rex du Poitou  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Rhinelander  ",
+    "size": "4.1–4.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "White with coloured butterfly patterns",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Rhone [de]  Also called:    Rhön",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "A white/black rabbit whose color/pattern is intended to resemble the surface of a birch tree.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Russian  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "SA Phendula",
+    "size": "4.0–5.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Chestnut Agouti, Gold or Silver Tipped Steel, Black",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "South Africa"
+  },
+  {
+    "breed_name": "Sachsengold [de]  Also called:    Saxon Gold",
+    "size": "2.75–3.25",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Chestnut",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Sallander",
+    "size": "2.3–4.1",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "San Juan",
+    "size": "1.4–2.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Agouti",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "United States Washington"
+  },
+  {
+    "breed_name": "Satin [UK]  ",
+    "size": "2.7–3.6",
+    "fur_type": "Medium",
+    "ear_type": "Erect",
+    "colors_markings": "[Includes >33 different colors/patterns][l]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United States Indiana"
+  },
+  {
+    "breed_name": "Satin [US]  ",
+    "size": "4.3–4.5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Broken, Californian, Chinchilla, Chocolate, Copper, Lilac, Otter, Red, Siamese, White",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States Indiana"
+  },
+  {
+    "breed_name": "Satin Angora",
+    "size": "2.9–4.3",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "[White or Colored]",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "Canada"
+  },
+  {
+    "breed_name": "Schwarzgrannen [UK] [de]",
+    "size": "2.00–3.25",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[P]ure white [with] black ticking",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Separator [DE]  ",
+    "size": "3–3.75",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[sandy colored]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "United Kingdom"
+  },
+  {
+    "breed_name": "Siamese Sable",
+    "size": "2.3–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Light Siamese Sable, Medium Siamese Sable, Dark Siamese Sable",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Siberian",
+    "size": "2.3–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Brown, Lilac",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Silver [UK]  ",
+    "size": "2.3–2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Blue, Brown, Fawn, Grey",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Silver [US]  ",
+    "size": "1.8–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Brown, Fawn",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Silver Fox [UK]  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Silver Fox [US]",
+    "size": "4.1–5.4",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Chocolate",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "United States Ohio"
+  },
+  {
+    "breed_name": "Silver Marten  Also called:    Beloresavec [sl]    Weißgrannen [de]  ",
+    "size": "4.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black, Blue, Chocolate, Sable",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Simenwar",
+    "size": "1.337",
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "Slovenian Rabbit  Also called:    Slovenski kunec [si]",
+    "size": "3–5",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Blue velvet with yellowish-brown substrate and flecking. [Similar to the St Hubert hairshaft?] The tail and belly are white, and the eyes are brown.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Slovenia"
+  },
+  {
+    "breed_name": "Smoke Pearl  Also called:    Sinisoopeli [fi]    Zobel blå [sv]    Zobel blue [da]  ",
+    "size": "2.3–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Marten type [smoke in colour, shading to pearl grey beige with certain white touches, including eye circles] or Siamese type [same but with no white touches]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom Scotland"
+  },
+  {
+    "breed_name": "Spanish Giant",
+    "size": "5.7–6.8",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Spain"
+  },
+  {
+    "breed_name": "Squirrel",
+    "size": "2.3–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom Scotland"
+  },
+  {
+    "breed_name": "Standard Chinchilla [US]  ",
+    "size": "2.3–3.4",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Chinchilla",
+    "ARBA": "Yes",
+    "BRC": "No",
+    "origin": "European Union France"
+  },
+  {
+    "breed_name": "Standard Rex  ",
+    "size": null,
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "—",
+    "BRC": "—",
+    "origin": "—"
+  },
+  {
+    "breed_name": "Stone rabbit  Also called:    Steenkonijn [nl]",
+    "size": "2.75",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Haaskleur (hare = red agouti), Konijngrijs (rabbit grey = grey agouti), Ijzergrauw (iron grey = steel agouti)",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Belgium"
+  },
+  {
+    "breed_name": "Sussex",
+    "size": "3.2–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Shaded] Cream, [Shaded] Gold",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Swedish Fur  Also called:    Svensk Pels",
+    "size": "3–3.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Glossy black with evenly spaced white hair.",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Sweden"
+  },
+  {
+    "breed_name": "Swedish Hare  Includes the breed prev. named:    Elfin",
+    "size": "2.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "All colors and markings are acceptable",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Sweden"
+  },
+  {
+    "breed_name": "Swiss Fox",
+    "size": "2.3–3.6",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "Switzerland"
+  },
+  {
+    "breed_name": "Tadla",
+    "size": "1.8–2.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Agouti",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Morocco"
+  },
+  {
+    "breed_name": "Tan  Also called:    Feu Noir [FR]",
+    "size": "1.8–2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Black & Tan, Blue & Tan, Chocolate & Tan, Lilac & Tan",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Tax-Xiber",
+    "size": null,
+    "fur_type": "",
+    "ear_type": "",
+    "colors_markings": "",
+    "ARBA": "",
+    "BRC": "",
+    "origin": "Malta[27][28]"
+  },
+  {
+    "breed_name": "Teddy Dwarf  Also called:    Teddyzwerg [DE]",
+    "size": "0.8–1.7",
+    "fur_type": "Long",
+    "ear_type": "Erect",
+    "colors_markings": "[Many]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Teddy Lop  Also called:    Teddywidder [DE]",
+    "size": "1.3–2.0",
+    "fur_type": "Long",
+    "ear_type": "Lop",
+    "colors_markings": "[Many]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Thrianta",
+    "size": "2.7",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Chestnut",
+    "ARBA": "Yes",
+    "BRC": "Yes",
+    "origin": "European Union Netherlands"
+  },
+  {
+    "breed_name": "Thuringer  Also called:    Thüringer",
+    "size": "4.1",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Sable with dark points]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Germany"
+  },
+  {
+    "breed_name": "Tri-Colour Dutch  Also called:    Harlequin Dutch    Japanese Dutch",
+    "size": "1.8–2.3",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Tri-Colour Dutch markings][m]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Tri-Colour English",
+    "size": "2.7–3.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Tri-Colour English markings][n]",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom England"
+  },
+  {
+    "breed_name": "Trønder",
+    "size": "4–6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "The color is shiny black with evenly distributed white hair. The white hairs are white in their full length",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Norway"
+  },
+  {
+    "breed_name": "V-line  Also called:    Line V",
+    "size": "3.32",
+    "fur_type": "—",
+    "ear_type": "—",
+    "colors_markings": "—",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Egypt"
+  },
+  {
+    "breed_name": "Velveteen Lop  ",
+    "size": "2.3–2.9",
+    "fur_type": "Rex Straight  Short",
+    "ear_type": "Lop",
+    "colors_markings": "[Includes all patterns and colors of the English Lop breed]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "United States"
+  },
+  {
+    "breed_name": "Vienna Coloured",
+    "size": "3.5–5.25",
+    "fur_type": "Medium",
+    "ear_type": "Erect",
+    "colors_markings": "Agouti, Black, Blue",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Austria"
+  },
+  {
+    "breed_name": "Vienna White",
+    "size": "3.5–5.25",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[P]ure white [...] very lustrous",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "European Union Austria"
+  },
+  {
+    "breed_name": "Wheaten",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Wheaten (the fawn or pale yellow colour of wheat)",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom"
+  },
+  {
+    "breed_name": "Wheaten Lynx",
+    "size": "2.5–3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Orange-shot-silver",
+    "ARBA": "No",
+    "BRC": "Yes",
+    "origin": "United Kingdom"
+  },
+  {
+    "breed_name": "White Country  Also called:    Hvid Land [da]    Hvit Land [no]    Vit Lant [se]",
+    "size": "3.8–4.6",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Albino",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Denmark"
+  },
+  {
+    "breed_name": "Zemmouri",
+    "size": "1.8–2.9",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "[Black with Dutch markings]",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "Morocco"
+  },
+  {
+    "breed_name": "Zika",
+    "size": "3.2",
+    "fur_type": "Short",
+    "ear_type": "Erect",
+    "colors_markings": "Albino",
+    "ARBA": "No",
+    "BRC": "No",
+    "origin": "European Union Germany"
+  }
+]
